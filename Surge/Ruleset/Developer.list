@@ -1,2 +1,5 @@
 # > Docker
 DOMAIN-SUFFIX,docker.com
+
+# > Nvidia
+DOMAIN-SUFFIX,developer.download.nvidia.com
