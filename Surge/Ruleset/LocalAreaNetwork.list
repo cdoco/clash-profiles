@@ -1,4 +1,3 @@
 # > Flowus
 DOMAIN-SUFFIX,allflow.cn
-DOMAIN-SUFFIX,taobao.com
 IP-CIDR,172.31.0.0/12,no-resolve
