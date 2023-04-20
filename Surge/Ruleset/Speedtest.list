@@ -1,6 +1,5 @@
 # > Fast
 DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,deup.anydata.work
 
 # > Speedtest by Ookla
@@ -11,3 +10,11 @@ DOMAIN,speed.dler.io
 
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
+
+# > Openai
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,invoice.stripe.com
