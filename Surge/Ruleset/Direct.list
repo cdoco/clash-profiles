@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,pixelfs.com
 DOMAIN-SUFFIX,anydata.work
+
+# > Aliyun HK
+IP-CIDR,47.76.73.90/32
+IP-CIDR,47.76.105.138/32
