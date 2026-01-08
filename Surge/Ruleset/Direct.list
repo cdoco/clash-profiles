@@ -9,6 +9,6 @@ DOMAIN-SUFFIX,pixelfs.com
 DOMAIN-SUFFIX,anydata.work
 DOMAIN-SUFFIX,aliyuncs.com
 
-# > Aliyun HK
+# > Aliyun
 IP-CIDR,47.76.73.90/32
 IP-CIDR,47.76.105.138/32
