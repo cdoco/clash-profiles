@@ -10,4 +10,5 @@ DOMAIN-SUFFIX,anydata.work
 DOMAIN-SUFFIX,aliyuncs.com
 
 # > Aliyun HK
+IP-CIDR,47.76.73.90/32
 IP-CIDR,47.76.105.138/32
