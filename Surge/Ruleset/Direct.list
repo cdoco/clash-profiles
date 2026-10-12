@@ -1,0 +1,14 @@
+# > Direct
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,gaozihang.com
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,pixelfs.com
+DOMAIN-SUFFIX,anydata.work
+DOMAIN-SUFFIX,aliyuncs.com
+
+# > Aliyun
+IP-CIDR,47.76.73.90/32
+IP-CIDR,47.76.105.138/32
